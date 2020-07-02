@@ -13,3 +13,7 @@
 
 ### Exemple de TP (presentation rise)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LionelCarminati/Serveur-Jupyter/master?filepath=refraction2_pres.ipynb)
+
+### Exemple d'environnement perso
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LionelCarminati/Serveur-Jupyter/master?urlpath=apps/environnement.ipynb)
+
