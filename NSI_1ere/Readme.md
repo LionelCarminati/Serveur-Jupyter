@@ -1,3 +1,3 @@
-# formation2020
-### Document de formation à Jupyter
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LionelCarminati/Serveur-Jupyter/NSI_1ere/master?filepath=TP_Pyhton_1_Variables_et_types.ipynb)
+# NSI 1ère
+### TP Python 1 : Variables et types
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LionelCarminati/ServeurJupyter/master?filepath=NSI_1ere%2FTP_Python_1_Variables_et_types.ipynb)
