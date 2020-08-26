@@ -17,5 +17,5 @@
 ### Exemple d'environnement perso
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LionelCarminati/Serveur-Jupyter/master?urlpath=apps/environnement.ipynb)
 
-### TP 1ere NSI
+### Tuto Jupyter Notebook
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LionelCarminati/Serveur-Jupyter/master?filepath=tuto.ipynb)
