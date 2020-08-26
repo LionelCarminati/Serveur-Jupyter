@@ -4,3 +4,6 @@
 
 ### TP2 Fonctions et conditions
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LionelCarminati/Serveur-Jupyter/master?filepath=NSI_1ere%2FTP2_Fonctions_et_Conditions.ipynb)
+
+### TP3 Les structures de boucles
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LionelCarminati/Serveur-Jupyter/master?filepath=NSI_1ere%2FTP3_Les_structures_de_boucles.ipynb)
