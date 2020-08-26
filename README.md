@@ -18,4 +18,4 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LionelCarminati/Serveur-Jupyter/master?urlpath=apps/environnement.ipynb)
 
 ### TP 1ere NSI
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LionelCarminati/Serveur-Jupyter/master?filepath=TP_Python_1_Variables_et_types.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LionelCarminati/Serveur-Jupyter/master?urlpath=TP_Python_1_Variables_et_types.ipynb)
