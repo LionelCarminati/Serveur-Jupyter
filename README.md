@@ -19,3 +19,6 @@
 
 ### Tuto Jupyter Notebook
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LionelCarminati/Serveur-Jupyter/master?filepath=tuto.ipynb)
+
+### TP1
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LionelCarminati/Serveur-Jupyter/master?filepath=TP1.ipynb)
