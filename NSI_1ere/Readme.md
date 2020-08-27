@@ -1,4 +1,8 @@
 # NSI 1ère
+
+### Tutoriel Utilisation des Notebook
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LionelCarminati/Serveur-Jupyter/master?filepath=NSI_1ere%2FTuto_Jupyter_Notebook.ipynb)
+
 ### TP1 Variables et Type
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LionelCarminati/Serveur-Jupyter/master?filepath=NSI_1ere%2FTP1_Variable_Type.ipynb)
 
